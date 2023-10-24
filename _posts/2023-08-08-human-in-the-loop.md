@@ -4,7 +4,8 @@ excerpt: "A powerful paradigm for ML systems"
 date: 2023-08-08
 categories: 
 - post
-tags: 
+tags:
+hidden: true
 ---
 It's interesting to look back and think about what I've learned since I started working
 as a data scientist back in 2016. In school we're taught about various algorithms and
