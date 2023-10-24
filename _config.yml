@@ -1,10 +1,10 @@
 # Configs for pwills.com
 
 title: "fedebassetti.com"
-name: "pwills.com"
-email: peter@pwills.com
+name: "fedebassetti.com"
+email: fedebassetti@github.com
 url: "http://www.pwills.com"
-repository: "peterewills/peterewills.github.io"
+repository: "fedebassetti/fedebassetti.github.io"
 
 include:
   - _pages
